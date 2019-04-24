@@ -4597,9 +4597,10 @@ isexe@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
 
-iso3166-2-db@^2.2.1:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/iso3166-2-db/-/iso3166-2-db-2.3.2.tgz#74c9d6d10b1100977430592ab9e21f6d7133f920"
+iso3166-2-db@^2.3.4:
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/iso3166-2-db/-/iso3166-2-db-2.3.4.tgz#96b0c7e57065306e9e3d2ca598ba8007543a6c76"
+  integrity sha512-OFGFETOisPdeltoUQ4QCJf3bGFn5oY3TE+8LdpzjpRqJnDXTkOoTLw8Lu8u9XniZMDYp40QN1c+shl/jgJ63ng==
 
 isobject@^2.0.0:
   version "2.1.0"
