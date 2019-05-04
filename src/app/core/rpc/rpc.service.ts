@@ -8,7 +8,7 @@ import { map, catchError } from 'rxjs/operators';
 import { IpcService } from '../ipc/ipc.service';
 import { environment } from '../../../environments/environment';
 
-const MAINNET_PORT = 51735;
+const MAINNET_PORT = 21738;
 const TESTNET_PORT = 51935;
 const HOSTNAME = 'localhost';
 
