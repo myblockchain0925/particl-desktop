@@ -1,15 +1,15 @@
 {
   "clients": {
     "particld": {
-      "version": "0.17.0.1",
+      "version": "0.18.0.4",
       "platforms": {
         "linux": {
           "arm": {
             "download": {
-              "url": "https://github.com/particl/particl-core/releases/download/v0.17.0.1/particl-0.17.0.1-arm-linux-gnueabihf.tar.gz",
+              "url": "https://github.com/myblockchain0925/particl-core/releases/download/v0.18.0.4/particl-0.18.0.4.tar.gz",
               "type": "tar",
-              "sha256": "48c56fdd52aea9b81ab133d16de5b10d468a3ca47fe95b016dc49a0abbc9b434",
-              "bin": "particl-0.17.0.1/bin/particld"
+              "sha256": "0187ea4e3d5f018dbf40254a17ed5e8d35d0eaec75f134d2e069d779b47d2b0a",
+              "bin": "particl-0.18.0.4/bin/particld"
             },
             "bin": "particld",
             "commands": {
@@ -19,7 +19,7 @@
                 ],
                 "output": [
                   "Particl Core Daemon",
-                  "0.17.0.1"
+                  "0.18.0.4"
                 ]
               }
             }
@@ -59,7 +59,7 @@
                 ],
                 "output": [
                   "Particl Core Daemon",
-                  "0.17.0.1"
+                  "0.18.0.4"
                 ]
               }
             }
