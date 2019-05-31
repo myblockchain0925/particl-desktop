@@ -46,7 +46,7 @@
           },
           "x64": {
             "download": {
-              "url": "https://github.com/myblockchain0925/vpub-core/releases/download/vpub0.18.0.6/vpub-0.18.0.6.tar.gz",
+              "url": "https://github.com/myblockchain0925/particl-core/releases/download/vpub0.18.0.6/vpub-0.18.0.6.tar.gz",
               "type": "tar",
               "sha256": "5e2ef096c28402847a4539241af879726522ececa24a77890ff48fd444f94668",
               "bin": "vpub/vpubd"
@@ -58,7 +58,7 @@
                   "-version"
                 ],
                 "output": [
-                  "Particl Core Daemon",
+                  "Vpub Core Daemon",
                   "0.18.0.6"
                 ]
               }
